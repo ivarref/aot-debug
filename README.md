@@ -1,6 +1,6 @@
 # aot-debug
 
-A Clojure library designed to ... well, that part is up to you.
+[![Clojars Project](https://img.shields.io/clojars/v/ivarref/aot-debug.svg)](https://clojars.org/ivarref/aot-debug)
 
 ## Usage
 
