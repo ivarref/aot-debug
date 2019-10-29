@@ -2,13 +2,9 @@
 
 [![Clojars Project](https://img.shields.io/clojars/v/ivarref/aot-debug.svg)](https://clojars.org/ivarref/aot-debug)
 
-## Usage
-
-FIXME
-
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 Ivar Refsdal
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
